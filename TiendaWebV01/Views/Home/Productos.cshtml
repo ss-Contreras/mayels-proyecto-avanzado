@@ -1,0 +1,68 @@
+﻿@model ProductosVM
+@{
+    ViewData["Title"] = "Productos";
+}
+<div class="container-fluid mb-5">
+    <div class="row border-top px-xl-5">
+        <div class="col-lg-3 d-lg-block">
+            <a class="btn shadow-none d-flex align-items-center justify-content-between bg-primary text-white w-100" data-toggle="collapse" data-target="#navbar-vertical" style="height: 65px; margin-top: -1px; padding: 0 30px;">
+                <h6 class="m-0">Categorias</h6>
+                <i class="fa fa-angle-down text-dark"></i>
+            </a>
+            <nav class="collapse navbar navbar-vertical navbar-collapse navbar-light align-items-start p-0 border border-top-0 border-bottom-0" id="navbar-vertical">
+                <div class="navbar-nav w-100 overflow-hidden">
+                    <input style="background-color:#c17a74 !important;" onclick="ObtenerProductosByCategoria('All', 'Todas');" class="btn btn-success" type="button" value="Todas" />
+                    @foreach (var categoria in Model.Categorias)
+                    {
+                        <input style="background-color:#c17a74 !important;" onclick="ObtenerProductosByCategoria('@categoria.IdCategoria', '@categoria.Nombre');" class="btn btn-success" type="button" value="@categoria.Nombre" />
+                    }
+                </div>
+            </nav>
+            <input type="hidden" id="SelectCategoria" value="All" />
+
+        </div>
+        <div class="col-lg-9">
+            <div class="row align-items-center py-3 px-xl-5">
+                <div class="col-lg-3 d-none d-lg-block">
+                    <a href="" class="text-decoration-none">
+                        <h3 class="m-0 display-5 font-weight-semi-bold"><span class="text-primary font-weight-bold border px-3 mr-1">M</span>Marcas</h3>
+                    </a>
+                </div>
+                <div class="col-lg-6 col-6 text-left">
+                    <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0">
+                        <a href="" class="text-decoration-none d-block d-lg-none">
+                            <h3 class="m-0 display-5 font-weight-semi-bold"><span class="text-primary font-weight-bold border px-3 mr-1">M</span>Marcas</h3>
+                        </a>
+                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapseMarca">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapseMarca">
+                            <div class="navbar-nav mr-auto py-0">
+                                <a style="cursor:pointer;" class="nav-item nav-link" onclick="ObtenerProductosByMarca('All', 'Todas');">Todas</a>
+                                @foreach( var marca in Model.Marcas)
+                                {
+                                    <a style="cursor:pointer;" onclick="ObtenerProductosByMarca('@marca.IdMarca', '@marca.Nombre');" class="nav-item nav-link">@marca.Nombre</a>
+                                }
+                            </div>
+                        </div>
+                    </nav>
+                    <input type="hidden" id="SelectMarca" value="All" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="container-fluid">
+                    <div class="row px-xl-5 pb-3" style="display:block;">
+                        <span style="font-size:20px;">Resultados:</span> <span id="spanCategoria" style="font-size:20px;">Categoria</span> - <span id="spanMarca" style="font-size:20px;">Marca</span>
+                        <div id="div_Productos">
+                            <partial name="~/Views/Home/Partials/_productos.cshtml" />
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+<script src="~/js/productos.js"></script>
