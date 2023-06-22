@@ -73,6 +73,9 @@ namespace TiendaWebV01.Migrations
                     b.Property<int>("Precio")
                         .HasColumnType("int");
 
+                    b.Property<string>("Ruta")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("IdProducto");
 
                     b.ToTable("Productos");

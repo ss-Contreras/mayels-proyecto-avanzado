@@ -14,15 +14,38 @@ namespace TiendaWebV01.Controllers
             _context = context;
         }
 
-        public IActionResult Inicio()
-		{
-			return View();
-		}
+        [Route("Home/Inicio/{page?}/{pageSize?}")]
+        [Route("/")]
+        public IActionResult Inicio(int page = 1, int pageSize = 12)
+        {
+            ProductosVM productosVM = new ProductosVM();
+
+            int skip = (page - 1) * pageSize;
+
+            productosVM.Productos = _context.Productos.Skip(skip).Take(pageSize).ToList();
+            productosVM.Categorias = _context.Categorias.ToList();
+            productosVM.Marcas = _context.Marcas.ToList();
+
+            productosVM.TotalCount = productosVM.Productos.Count;
+
+            productosVM.PageNumber = page;
+            productosVM.PageSize = pageSize;
+            return View(productosVM);
+        }
+
 
         public IActionResult Nosotros()
         {
             return View();
         }
+
+
+        public IActionResult Cart()
+        {
+            return View();
+        }
+
+
 
         public IActionResult Productos()
         {
@@ -102,7 +125,7 @@ namespace TiendaWebV01.Controllers
         }
 
         [Route("Home/Detalles/{IdProducto}")]
-        public IActionResult Detalles(string IdProducto)
+        public IActionResult Detalles(int IdProducto)
         {
             Productos producto = new Productos();
             producto = _context.Productos.FirstOrDefault(p => p.IdProducto == IdProducto);

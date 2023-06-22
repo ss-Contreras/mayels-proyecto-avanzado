@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documentos\\ProyectosProgramacion\\ProyectosDotNet\\Frontend-Ecommerce02\\TiendaWebV01\\TiendaWebV01\\TiendaWebV01.csproj": {}
+    "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\TiendaWebV01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documentos\\ProyectosProgramacion\\ProyectosDotNet\\Frontend-Ecommerce02\\TiendaWebV01\\TiendaWebV01\\TiendaWebV01.csproj": {
+    "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\TiendaWebV01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documentos\\ProyectosProgramacion\\ProyectosDotNet\\Frontend-Ecommerce02\\TiendaWebV01\\TiendaWebV01\\TiendaWebV01.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\TiendaWebV01.csproj",
         "projectName": "TiendaWebV01",
-        "projectPath": "C:\\Users\\Usuario\\Documentos\\ProyectosProgramacion\\ProyectosDotNet\\Frontend-Ecommerce02\\TiendaWebV01\\TiendaWebV01\\TiendaWebV01.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documentos\\ProyectosProgramacion\\ProyectosDotNet\\Frontend-Ecommerce02\\TiendaWebV01\\TiendaWebV01\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\TiendaWebV01.csproj",
+        "packagesPath": "C:\\Users\\Lenovo Yoga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo Yoga\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -73,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

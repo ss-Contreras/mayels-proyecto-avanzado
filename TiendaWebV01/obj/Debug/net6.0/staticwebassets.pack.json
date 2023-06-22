@@ -1,187 +1,875 @@
 {
   "Files": [
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TiendaWebV01.bundle.scp.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TiendaWebV01.bundle.scp.css",
       "PackagePath": "staticwebassets\\TiendaWebV01.bundle.scp.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\css\\menutoogle.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\css\\menutoogle.css",
       "PackagePath": "staticwebassets\\css\\menutoogle.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\css\\style.min.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\css\\style.min.css",
       "PackagePath": "staticwebassets\\css\\style.min.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\carousel-1.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Logo-Mayels.jpeg",
+      "PackagePath": "staticwebassets\\img\\Logo-Mayels.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img001.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img002.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img003.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img004.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img005.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img006.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img007.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img008.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img009.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img010.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img011.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img012.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img013.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img014.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img015.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img016.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img017.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img018.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img019.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img020.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img020.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img021.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img022.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img023.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img024.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img025.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img025.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img026.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img027.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img027.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img028.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img028.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img029.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img029.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img030.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img030.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img031.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img031.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img032.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img032.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img033.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img033.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img034.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img035.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img035.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img036.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img036.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img037.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img037.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img038.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img038.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img039.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img039.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img040.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img040.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img041.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img041.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img042.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img042.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img043.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img043.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img044.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img044.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img045.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img045.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img046.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img046.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img047.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img047.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img048.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img048.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img049.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img049.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img050.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img051.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img051.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img052.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img052.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca01\\Img053.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca01\\Img053.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img001.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img002.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img003.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img004.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img004.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img005.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img006.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img006.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img007.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img008.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img009.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img009.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img010.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img010.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img011.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img011.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img012.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img013.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img014.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img015.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img015.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img016.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img017.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img017.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img018.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img019.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img020.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img020.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img021.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img021.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img022.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img022.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img023.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img023.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca02\\Img024.png",
+      "PackagePath": "staticwebassets\\img\\Marca02\\Img024.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img001.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img002.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img003.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img004.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img005.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img006.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img007.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img008.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img009.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img010.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img011.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img012.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img013.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img014.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img015.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img016.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img017.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img018.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img019.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img020.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img020.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img021.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img022.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img023.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca03\\Img024.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca03\\Img024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img001.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img002.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img003.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img004.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img005.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img006.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img007.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img008.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img009.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img010.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img011.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img012.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img013.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img014.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img015.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img016.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca04\\Img017.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca04\\Img017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img001.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img002.jpeg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img002.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img003.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img004.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img005.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img006.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img007.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img008.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img009.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img010.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img011.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img012.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img013.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img014.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img015.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img016.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img017.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img018.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img019.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img020.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img020.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img021.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img022.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca05\\Img023.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca05\\Img023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img001.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img002.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img003.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img004.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img005.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img006.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img007.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img008.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img009.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img010.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img011.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img012.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img013.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img014.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca06\\Img015.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca06\\Img015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca07\\Img001.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca07\\Img001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca07\\Img002.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca07\\Img002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca07\\Img003.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca07\\Img003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca07\\Img004.png",
+      "PackagePath": "staticwebassets\\img\\Marca07\\Img004.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca07\\Img005.png",
+      "PackagePath": "staticwebassets\\img\\Marca07\\Img005.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca07\\Img006.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca07\\Img006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca07\\Img007.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca07\\Img007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\Marca07\\Img008.jpg",
+      "PackagePath": "staticwebassets\\img\\Marca07\\Img008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\MarcasFooter\\Anyeluz.png",
+      "PackagePath": "staticwebassets\\img\\MarcasFooter\\Anyeluz.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\MarcasFooter\\KabaLogo.jpg",
+      "PackagePath": "staticwebassets\\img\\MarcasFooter\\KabaLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\MarcasFooter\\MagicHair.png",
+      "PackagePath": "staticwebassets\\img\\MarcasFooter\\MagicHair.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\MarcasFooter\\OleCapilar.jpg",
+      "PackagePath": "staticwebassets\\img\\MarcasFooter\\OleCapilar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\MarcasFooter\\PocionLogo.jpg",
+      "PackagePath": "staticwebassets\\img\\MarcasFooter\\PocionLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\background6.jpg",
+      "PackagePath": "staticwebassets\\img\\background6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\carousel-2.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\cat-1.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\cat-1.jpg",
       "PackagePath": "staticwebassets\\img\\cat-1.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\cat-2.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\cat-2.jpg",
       "PackagePath": "staticwebassets\\img\\cat-2.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\cat-3.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\cat-3.jpg",
       "PackagePath": "staticwebassets\\img\\cat-3.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\cat-4.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\cat-4.jpg",
       "PackagePath": "staticwebassets\\img\\cat-4.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\cat-5.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\cat-5.jpg",
       "PackagePath": "staticwebassets\\img\\cat-5.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\cat-6.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\cat-6.jpg",
       "PackagePath": "staticwebassets\\img\\cat-6.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\offer-1.png",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\meyels.png",
+      "PackagePath": "staticwebassets\\img\\meyels.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\offer-1.png",
       "PackagePath": "staticwebassets\\img\\offer-1.png"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\offer-2.png",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\offer-2.png",
       "PackagePath": "staticwebassets\\img\\offer-2.png"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\payments.png",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\payments.png",
       "PackagePath": "staticwebassets\\img\\payments.png"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\product-1.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\product-1.jpg",
       "PackagePath": "staticwebassets\\img\\product-1.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\product-2.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\product-2.jpg",
       "PackagePath": "staticwebassets\\img\\product-2.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\product-3.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\product-3.jpg",
       "PackagePath": "staticwebassets\\img\\product-3.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\product-4.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\product-4.jpg",
       "PackagePath": "staticwebassets\\img\\product-4.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\product-5.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\product-5.jpg",
       "PackagePath": "staticwebassets\\img\\product-5.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\product-6.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\product-6.jpg",
       "PackagePath": "staticwebassets\\img\\product-6.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\product-7.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\product-7.jpg",
       "PackagePath": "staticwebassets\\img\\product-7.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\product-8.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\product-8.jpg",
       "PackagePath": "staticwebassets\\img\\product-8.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\user.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\user.jpg",
       "PackagePath": "staticwebassets\\img\\user.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\vendor-1.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\vendor-1.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-1.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\vendor-2.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\vendor-2.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-2.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\vendor-3.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\vendor-3.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-3.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\vendor-4.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\vendor-4.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-4.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\vendor-5.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\vendor-5.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-5.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\vendor-6.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\vendor-6.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-6.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\vendor-7.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\vendor-7.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-7.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\img\\vendor-8.jpg",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\img\\vendor-8.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-8.jpg"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\js\\Productos.js",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\js\\Productos.js",
       "PackagePath": "staticwebassets\\js\\Productos.js"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\easing\\easing.min.js",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\owlcarousel"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "D:\\PROYECTOS\\TiendaWebV01\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\Lenovo Yoga\\OneDrive\\Documentos\\Todos Mis Archivos\\Programación\\Lenguajes de Programación\\DotNet\\mayelsdotnet\\Prueba-Mayels-Nube\\TiendaWebV01\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
