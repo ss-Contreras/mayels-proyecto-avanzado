@@ -7,7 +7,7 @@
             <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
                 
                 <a asp-controller="Home" asp-action="Detalles" asp-route-id="@producto.IdProducto" class="img-link">
-                    <img class="img-fluid w-100" src="~/img/product-1.jpg" alt="">
+                    <img class="img-fluid w-100" src="@producto.Ruta" alt="">
                 </a>
             </div>
             <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
